@@ -1,3 +1,12 @@
+### Release Retention Rule
+
+Welcome to the DeOps Deploy Release Retention Feature, this feature takes in a list of your projects, envrionments, releases and deployments along with a number of how many releases you would like to retain. It will then return you a list with the number of most recent releases that you would like to retain. Making deleting your old releases easier then its ever been.
+A log of releases that are being kept with will be logged to "releaseToKeep.Json".
+The ReleasesToKeep function has built in data validation, if invalid data is passed to the fucntion a exception will be thrown and an empty list will be returned.
+
+Please enjoy the use of this feature to improve your experience of DeOps Deploy.
+
+
 ### QUESTIONS
 How is the data actually coming in, is it getting sent as JSON files, or is it going to come in as correct models ?
 
