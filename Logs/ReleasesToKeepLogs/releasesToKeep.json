@@ -1,0 +1,78 @@
+﻿[
+  {
+    "Timestamp": "2025-05-19T00:16:40",
+    "Info": "R1 kept because it was the most recently deployed to E1 in project P1"
+  },
+  {
+    "Timestamp": "2025-05-19T00:16:40",
+    "Info": "R3 kept because it was the most recently deployed to E1 in project P1"
+  },
+  {
+    "Timestamp": "2025-05-19T00:16:40",
+    "Info": "R4 kept because it was the most recently deployed to E1 in project P1"
+  },
+  {
+    "Timestamp": "2025-05-19T00:16:40",
+    "Info": "No releases found on the projects: P1 and environments: E1"
+  },
+  {
+    "Timestamp": "2025-05-19T00:16:40",
+    "Info": "R2 kept because it was the most recently deployed to E1 in project P1"
+  },
+  {
+    "Timestamp": "2025-05-19T00:16:40",
+    "Info": "R4 kept because it was the most recently deployed to E2 in project P2"
+  },
+  {
+    "Timestamp": "2025-05-19T00:16:40",
+    "Info": "R2 kept because it was the most recently deployed to E1 in project P2"
+  },
+  {
+    "Timestamp": "2025-05-19T00:16:40",
+    "Info": "R5 kept because it was the most recently deployed to E1 in project P1"
+  },
+  {
+    "Timestamp": "2025-05-19T00:16:40",
+    "Info": "R1 kept because it was the most recently deployed to E1 in project P1"
+  },
+  {
+    "Timestamp": "2025-05-19T00:16:40",
+    "Info": "R3 kept because it was the most recently deployed to E1 in project P1"
+  },
+  {
+    "Timestamp": "2025-05-19T00:16:40",
+    "Info": "R2 kept because it was the most recently deployed to E2 in project P2"
+  },
+  {
+    "Timestamp": "2025-05-19T00:16:40",
+    "Info": "R6 kept because it was the most recently deployed to E2 in project P1"
+  },
+  {
+    "Timestamp": "2025-05-19T00:16:40",
+    "Info": "R4 kept because it was the most recently deployed to E2 in project P1"
+  },
+  {
+    "Timestamp": "2025-05-19T00:16:40",
+    "Info": "R1 kept because it was the most recently deployed to E1 in project P1"
+  },
+  {
+    "Timestamp": "2025-05-19T00:16:41",
+    "Info": "R2 kept because it was the most recently deployed to E1 in project P1"
+  },
+  {
+    "Timestamp": "2025-05-19T00:16:41",
+    "Info": "R1 kept because it was the most recently deployed to E2 in project P1"
+  },
+  {
+    "Timestamp": "2025-05-19T00:16:41",
+    "Info": "R1 kept because it was the most recently deployed to E1 in project P1"
+  },
+  {
+    "Timestamp": "2025-05-19T00:16:41",
+    "Info": "R1 kept because it was the most recently deployed to E1 in project P1"
+  },
+  {
+    "Timestamp": "2025-05-19T00:16:41",
+    "Info": "R3 kept because it was the most recently deployed to E1 in project P1"
+  }
+]
